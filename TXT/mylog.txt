@@ -27,3 +27,7 @@ ZCZC W04 180 L22 YouTube: study, etc.
 ZCZC W04 120 L08 Trying something
 ZCZC W04 120 L05 GSGS related
 ZCZC W04 120 L14 Assignment #4
+ZCZC W05 180 L15 Assignment #5
+ZCZC W05 120 L08 Trying something
+ZCZC W05 120 L05 GSGS related
+ZCZC W05 180 L05 GSGS related
