@@ -11,3 +11,4 @@ Operating Systems 2021-1
 [**w04**](https://amandacarrisa.github.io/os211/W04)
 [**w05**](https://amandacarrisa.github.io/os211/W05)
 [**w06**](https://amandacarrisa.github.io/os211/W06)
+[**w07**](https://amandacarrisa.github.io/os211/W07)
