@@ -44,3 +44,9 @@ ZCZC W07 40 L27 Pets: feeding, playing, etc
 ZCZC W08 160 L18 Assignment #8
 ZCZC W08 120 L05 GSGS related
 ZCZC W08 100 L08 Trying something
+ZCZC W09 40 L08 Trying something
+ZCZC W09 60 L08 Trying something
+ZCZC W09 30 L08 Trying something
+ZCZC W09 15 L08 Trying something
+ZCZC W09 30 L08 Trying something
+ZCZC W09 120 L05 GSGS related
