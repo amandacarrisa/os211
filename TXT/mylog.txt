@@ -50,3 +50,8 @@ ZCZC W09 30 L08 Trying something
 ZCZC W09 15 L08 Trying something
 ZCZC W09 30 L08 Trying something
 ZCZC W09 120 L05 GSGS related
+ZCZC W10 120 L06 Reading References/Books/Documents
+ZCZC W10 60 L08 Trying something
+ZCZC W10 30 L08 Trying something
+ZCZC W10 40 L05 GSGS related
+ZCZC W10 60 L05 GSGS related
